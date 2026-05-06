@@ -1,0 +1,18 @@
+# QA Portfolio
+
+Manual and automated testing portfolio covering multiple 
+web applications. Built with Playwright and JavaScript.
+
+## Projects
+
+| Project | Type | Coverage |
+| [QAHive eCommerce](./qahive-ecommerce) | E-commerce | Registration flow |
+
+## Skills demonstrated
+- Manual test case design
+- Bug reporting
+- Playwright automation
+- E2E test coverage
+
+## Tools
+- Playwright + JavaScript
